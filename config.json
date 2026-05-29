@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartepdate",
+        "uuid": 775335,
+        "checksum": "4lwnog"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
